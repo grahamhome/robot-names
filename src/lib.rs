@@ -40,6 +40,7 @@ impl Robot {
     }
 }
 
+// Test case provided by exercism.org
 #[test]
 fn test_many_different_robots_have_different_names() {
     use crate::*;
